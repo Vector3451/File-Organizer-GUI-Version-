@@ -1,7 +1,0 @@
-{
-  "java.project.referencedLibraries": [
-    "lib/**/*.jar",
-    "C:/Program Files/Java/javafx-sdk-24.0.2/lib/*.jar",
-    "C:/Users/ADMIN/Desktop/Games/College/FileOrganizerProject/lib/json-20240303.jar"
-  ]
-}
